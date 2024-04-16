@@ -1,0 +1,1 @@
+package io.sajansthapit.readingfolders;public class FileTreeDemo {    public static void main(String[] args) {        new FileTreeGenerator("/Users/sajansthapit/Documents/codes/java/binary-tree");    }}

@@ -1,0 +1,1 @@
+package io.sajansthapit.readingfolders;import java.util.List;public class FileDto {    boolean isDirectory;    String path;    String name;    List<FileDto> children;}

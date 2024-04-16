@@ -1,0 +1,7 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½†¬…ùÿÿÿÿ8¼¹¾î1J$b8e505dc-4dd2-4e51-8aba-cfb534c73169
+m	java:S106"+Replace this use of System.out by a logger.(£ÆÏÁ8˜¼¹¾î1J$cc11858b-b08f-40fc-abad-ba32924285ca
+~	java:S125'"<This block of commented-out lines of code should be removed.(ƒöıú8š¼¹¾î1J$364c4e1d-4306-44ed-bf9f-07c299ba6224
+~	java:S125<"<This block of commented-out lines of code should be removed.(ó„Êù8›¼¹¾î1J$b5456056-2c39-4649-9245-8baab33ab698
+u
+java:S1068"2Remove this unused "rootFolderPath" private field.(ç¦´¾8œ¼¹¾î1J$2479965d-efd6-4036-988b-6fdbe52e7c51
